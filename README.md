@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jithin-krishna-k/LeetCodeChallenges/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jithin-krishna-k/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jithin-krishna-k/LeetCodeChallenges/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jithin-krishna-k/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jithin-krishna-k/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
