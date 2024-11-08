@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jithin-krishna-k/LeetCodeChallenges/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jithin-krishna-k/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1603-running-sum-of-1d-array](https://github.com/jithin-krishna-k/LeetCodeChallenges/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jithin-krishna-k/LeetCodeChallenges/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/jithin-krishna-k/LeetCodeChallenges/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
