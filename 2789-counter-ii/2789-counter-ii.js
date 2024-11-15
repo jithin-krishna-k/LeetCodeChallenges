@@ -14,7 +14,7 @@ var createCounter = function (init) {
             return current;
         },
         reset: () => {
-            current = init; // Reset to the initial value
+            current = init;
             return current;
         }
     };
